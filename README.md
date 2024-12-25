@@ -11,6 +11,6 @@
 
   ### 🔧 Tech Stack 🔧
   <img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-#3776AB?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-3776AB?style=flat-square&logo=HTML5&logoColor=white"/>
   
 </div>
