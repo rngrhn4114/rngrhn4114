@@ -9,6 +9,7 @@
   ### ✨ About Me ✨   
   ARTFICIAL INTELLIGENCE ENGINEERING, College of Engineering, Sookmyung Women’s University
 
-  ### 🔧 Stack 🔧
+  ### 🔧 Tech Stack 🔧
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   
 </div>
