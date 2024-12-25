@@ -1,6 +1,11 @@
-### <center>✨ About Me ✨</center>
-  <center>ARTFICIAL INTELLIGENCE ENGINEERING, College of Engineering, Sookmyung Women’s University</center>
+<div align="center">
+  ## Hi, I'm Seoyeon🙌
+  ***
+  <br/>
+  ### **✨ About Me ✨**
+  ARTFICIAL INTELLIGENCE ENGINEERING, College of Engineering, Sookmyung Women’s University
 
+</div>
 <!--
 **rngrhn4114/rngrhn4114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
