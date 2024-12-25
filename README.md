@@ -1,4 +1,5 @@
-###✨ About Me ✨
+✨ About Me ✨
+---
 ARTFICIAL INTELLIGENCE ENGINEERING, College of Engineering, Sookmyung Women’s University
 
 <!--
