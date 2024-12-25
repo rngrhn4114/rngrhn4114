@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi, I'm Seoyeon🙌
+  ## Hi, I'm Seoyeon🙌   
   ---
   
   ### ✨ About Me ✨
