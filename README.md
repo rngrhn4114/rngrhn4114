@@ -1,17 +1,17 @@
-<div align="center">
+<div>
   
   ### Hello, I'm Seoyeon 🙌 
   ---
 </div>
 
-<div align="center">
+<div>
 
   ### ✨ About Me ✨   
   ARTFICIAL INTELLIGENCE ENGINEERING, College of Engineering, Sookmyung Women’s University
   
 </div>
 
-<div align="center">
+<div>
   
   ### 🔧 Tech Stack 🔧
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -25,7 +25,7 @@
   
 </div>
 
-<div align="center">
+<div>
 
   ### 💻 Cowork Tools 💻
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
@@ -36,7 +36,7 @@
   
 </div>
 
-<div align="center">
+<div>
 
   ### ☎️ Contact ☎️
   <a href="mailto:is9206855@gmail.com" target="_blank">
