@@ -7,7 +7,7 @@
 <div>
 
   ### ✨ About Me ✨   
-  ARTFICIAL INTELLIGENCE ENGINEERING, College of Engineering, Sookmyung Women’s University
+  IT Engineering, College of Engineering, Sookmyung Women’s University
   
 </div>
 
